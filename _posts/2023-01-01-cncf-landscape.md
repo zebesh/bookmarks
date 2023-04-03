@@ -2,7 +2,7 @@
 layout: post
 title: 'CNCF Cloud Native Interactive Landscape'
 date: '2023-01-01 18:11:00'
-categories: links
+categories: software
 tags: cncf catalog soft k8s ci\cd
 ---
 

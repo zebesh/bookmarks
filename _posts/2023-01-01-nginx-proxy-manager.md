@@ -2,7 +2,7 @@
 layout: post
 title: 'nginx proxy manager'
 date: '2023-01-01 18:11:00'
-categories: links
+categories: software
 tags: nginx ssl proxy docker ui k8s
 ---
 
